@@ -1,0 +1,2 @@
+# webpackTemplate
+Webpack projects template
