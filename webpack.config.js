@@ -9,6 +9,7 @@ module.exports = {
     static: {
       directory: path.resolve(__dirname, 'src'),
     },
+
   plugins: [
     new HtmlWebpackPlugin({
         template: './src/index.html',
@@ -29,5 +30,6 @@ module.exports = {
       },
     ],
   },
+}
 
 };
